@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0059B3,100:87CEEB&height=300&section=header&text=SeungGyun%20Github&fontSize=90&fontAlignY=39&fontColor=ffffff&animation=fadeIn&fontFamily=Verdana&strokeWidth=0&desc=Welcome%20to%20my%20profile&descSize=24&descAlignY=51&descAlign=62" />
 
-<hr>
+
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/nuyg_gnues"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/nuyg_gnues"/></a>
 </p>
 
-<hr>
+
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
-<hr>
+
 
 <h3 align="center"><b>🎮 Gaming 🎮</b></h3>
 </br>
@@ -47,7 +47,4 @@ Here are some ideas to get you started:
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdrbs1591&layout=compact)
-
-<hr>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmdrbs1591&show_icons=true)
