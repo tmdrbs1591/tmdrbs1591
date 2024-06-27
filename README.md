@@ -48,4 +48,3 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdrbs1591&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmdrbs1591&show_icons=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tmdrbs1591)
