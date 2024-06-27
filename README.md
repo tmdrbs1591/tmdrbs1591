@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeungGyun%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:ffdd00,100:ff3d00&height=300&section=header&text=SeungGyun%20Github&fontSize=90&fontAlignY=39&fontColor=ffffff&animation=fadeIn&fontFamily=Verdana&stroke=000000&strokeWidth=2&desc=Welcome%20to%20my%20profile&descSize=24&descAlignY=51&descAlign=62" />
+
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
