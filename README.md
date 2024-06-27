@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-%23000000.svg?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdrbs1591&layout=compact)
