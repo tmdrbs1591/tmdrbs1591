@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeungGyun%20Github&fontSize=90" />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdrbs1591&show_icons=true&theme=radical)
