@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SeungGyun%20Github&fontSize=90" />
 
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tmdrbs1591&layout=compact)
 
