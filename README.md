@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91.svg?style=for-the-badge&logo=Visual Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white"/>
+
 </p>
 
 <hr>
